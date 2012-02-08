@@ -7,4 +7,4 @@ all_pod_files_spelling_ok('lib');
 __DATA__
 motemen
 motemen@gmail.com
-Acme::Annotate::WithResult
+Acme::Annotate::WithOutput
